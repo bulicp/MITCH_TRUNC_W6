@@ -4,7 +4,7 @@ design_name: mult_top
 
 verilog_files:
   - src/mult_top.v
-  - src/AHHRE_10bit.v
+  - src/MITCH_TRUNC_W6.v
   - src/timescale.v
 sdc_file: constraint.sdc
 
